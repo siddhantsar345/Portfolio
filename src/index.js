@@ -2,6 +2,7 @@ import project1 from "../src/assets/projects/project-1.jpg";
 import project2 from "../src/assets/projects/project-2.jpg";
 import project3 from "../src/assets/projects/project-3.jpg";
 import project4 from "../src/assets/projects/project-4.jpg";
+import project5 from "../src/assets/projects/project-5.jpg"
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies as well as back-end technologies. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -49,6 +50,14 @@ export const PROJECTS = [
     description:
       "Created a Rock-Paper-Scissors game using HTML, CSS, and JavaScript, emphasizing developing the game's logic. Players choose their option while the computer randomly generates its choice, and the winner is determined by the classic rules. This project focused on implementing robust game logic and an interactive user experience.",
     technologies: ["HTML", "CSS", "Javascript", "Vercel"],
+  },
+  {
+    title: "PORTFOLIO",
+    image: project5,
+    link:"https://siddhantsar.netlify.app/",
+    description:
+      "I crafted my first personalized portfolio, elegantly showcasing my details using React JS, Tailwind CSS, and Framer Motion for a stunning visual experience.",
+    technologies: ["React JS", "Tailwind", "Framer Motion", "Netlify"],
   },
 ];
 
