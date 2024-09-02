@@ -19,15 +19,17 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "TIC-TAC-TOE",
+    title: "TIC-TAC-TOE" ,
     image: project1,
+    link:"https://tic-tac-toe-lake-seven.vercel.app/",
     description:
-      " Developed my first-ever game, a classic Tic Tac Toe, using HTML, CSS, and JavaScript. The game features an interactive interface where players can compete against each other, taking turns to mark their symbols in a grid until one player wins or the game ends in a draw. This project provided a foundational experience in game development and web programming.",
+      "Developed my first game, Tic Tac Toe, using HTML, CSS, and JavaScript. It features an interactive interface where two players take turns marking symbols in a grid until one wins or the game ends in a draw. This project gave me a foundational experience in game development and web programming.",
     technologies: ["HTML", "CSS", "Javascript", "Vercel"],
   },
   {
     title: "Weather App",
     image: project2,
+    link:"https://weather-app-seven-pearl-18.vercel.app/",
     description:
       "A user-friendly app designed to provide area-specific weather updates and detailed insights. Users can check real-time weather conditions, forecasts, temperature, humidity, wind speed related information based on their location",
     technologies: ["HTML", "CSS", "Javascript", "Vercel"],
@@ -35,6 +37,7 @@ export const PROJECTS = [
   {
     title: "To-Do-List",
     image: project3,
+    link:"https://to-do-list-smoky-chi.vercel.app/",
     description:
       "A simple and intuitive app built using HTML, CSS, and JavaScript that allows users to manage their daily tasks. Users can add new tasks, mark them as completed, and update or remove tasks as needed. The app helps users stay organized and keep track of their daily activities effectively.",
     technologies: ["HTML", "CSS", "Javascript", "Vercel"],
@@ -42,8 +45,9 @@ export const PROJECTS = [
   {
     title: "ROCK-PAPER-SCISSOR",
     image: project4,
+    link:"https://rock-paper-scissors-pi-self.vercel.app/",
     description:
-      "Created a Rock-Paper-Scissors game using HTML, CSS, and JavaScript, with a strong emphasis on developing the game's logic. The game allows players to select their choice, with the computer randomly generating its own. The winner is determined based on the classic rules of the game. This project focused primarily on implementing robust game logic and ensuring an interactive user experience.",
+      "Created a Rock-Paper-Scissors game using HTML, CSS, and JavaScript, emphasizing developing the game's logic. Players choose their option while the computer randomly generates its choice, and the winner is determined by the classic rules. This project focused on implementing robust game logic and an interactive user experience.",
     technologies: ["HTML", "CSS", "Javascript", "Vercel"],
   },
 ];

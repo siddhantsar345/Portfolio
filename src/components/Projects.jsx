@@ -1,4 +1,5 @@
-import { PROJECTS } from ".."
+import React from "react";
+import { PROJECTS } from "../index"
 import {motion} from "framer-motion"
 
 const Projects=() => {
@@ -16,6 +17,7 @@ const Projects=() => {
           initial={{opacity:0, x: -100}}
           transition={{duration:1}}
           className="w-full lg:w-1/4">
+          <a href={Projects.link} target="_blank" rel="noopener noreferrer">
           <img 
           src={Projects.image} 
           alt={Projects.title}
@@ -23,6 +25,7 @@ const Projects=() => {
           width={150}
           className="mb-6 rounded" 
           />
+          </a>
           </motion.div>
           <motion.div 
           whileInView={{opacity:1, x:0}}
