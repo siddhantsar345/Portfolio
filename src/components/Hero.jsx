@@ -21,12 +21,11 @@ const Hero=() =>{
             initial="hidden" 
             animate="visible"
             className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl">Siddhant Sar</motion.h1>
-
             <motion.span 
             variants={container(0.5)}
             initial="hidden" 
             animate="visible"
-            className="bg-gradient-to-r from-pink-300 via-slate-50 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent">Full Stack Developer/ Cloud Computing Enthusiast</motion.span>
+            className="bg-gradient-to-r from-pink-300 via-slate-50 to-purple-500 bg-clip-text text-xl sm:text-2xl md:text-3xl tracking-tight text-transparent text-center lg:text-left">Full Stack Developer/ Cloud Computing Enthusiast</motion.span>
             <br />
             <motion.p
             variants={container(1)}
