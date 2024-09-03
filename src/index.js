@@ -57,7 +57,7 @@ export const PROJECTS = [
     link:"https://siddhantsar.netlify.app/",
     description:
       "I crafted my first personalized portfolio, elegantly showcasing my details using React JS, Tailwind CSS, and Framer Motion for a stunning visual experience.",
-    technologies: ["React JS", "Tailwind", "Framer Motion", "Netlify"],
+    technologies: ["React.JS", "Tailwind", "FramerMotion", "Netlify"],
   },
 ];
 
