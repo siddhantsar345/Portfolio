@@ -63,6 +63,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Dubai, United Arab Emirates",
-  phoneNo: "+971557554923/ +918338002365 ",
+  phoneNo: "+971-557554923/ +91-8338002365 ",
   email: "siddhantsar123@gmail.com",
 };
