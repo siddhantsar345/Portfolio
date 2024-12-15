@@ -13,14 +13,8 @@ export const EXPERIENCES = [
     year: "July'23 - Present",
     role: "Junior Technical Engineer",
     company: "WORKZ, Dubai",
-    description: `-> Developed and Maintained JavaCard Applets for global SIM/eSIM vendors. 
-    ->Providing Technical Support, Bug fixes and ensuring timely delivery.
-    ->Responsible for supporting end to end testing of SIM(UICC).
-    ->Support the investigation, troubleshooting and resolution of handset, card, network level issue 
-    ->Review test plans with development team. Reporting of identified inefficiencies and defaults.Conducting weekly client interactions to provide project status updates and gather requirements for future projects. 
-    ->Segregating customer data and creating data generation templates to support commercial production. Collaborated with cross-functional teams to streamline project workflows, contributing to a 10% increase in overall team productivity. 
-    ->Requirement gathering and client interaction for troubleshooting purpose.BAP Tracker reporting, where we provide updates on all ongoing projects to the Senior Management Team and set deadlines to meet customer timelines. `,
-    technologies: ["Java Card", "Native Card", "Python","Beyond Compare", "UL Spy", "SDMS", "SFT', KMS"],
+    description: `Developed and maintained JavaCard applets for global SIM/eSIM vendors, ensuring timely delivery and bug fixes. Supported end-to-end testing of SIM (UICC) and resolved handset, card, and network-level issues. Conducted client interactions for requirement gathering, project updates, and troubleshooting. Reviewed test plans and reported inefficiencies, improving project workflows. Created data templates to support commercial production, boosting team productivity by 10%.`,
+    technologies: ["Java Card", "Native Card", "Python","Beyond Compare", "SDMS", "SFT'", "KMS"],
   },
 ];
 
